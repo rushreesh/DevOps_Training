@@ -1,1 +1,10 @@
 Pushing this new file
+
+The Git Checkout command lets us go back in time to a previous version. 
+
+The example would be 
+
+git checkout <commitd>
+
+Now the magic begins!!!!!
+
